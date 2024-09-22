@@ -1,0 +1,21 @@
+.first-section {
+  background-image: url('images/image0.jpg');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5); 
+}
+
+.white {
+  color: #fff; /* White text */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+}
+
+.first-section h1 {
+	font-weight: 800px;
+}
+
